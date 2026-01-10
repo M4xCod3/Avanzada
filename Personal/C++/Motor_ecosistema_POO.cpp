@@ -215,7 +215,7 @@ public:
 	        // Misma especie
 	        if (typeid(*a) != typeid(*otro)) continue;
 	
-	        // Misma posición
+	        // Misma posiciÃ³n
 	        int dx = abs(a->getX() - otro->getX());
 			int dy = abs(a->getY() - otro->getY());
 			
@@ -254,7 +254,7 @@ public:
 	                //cout << "???? Nace carnivoro en (" << nx << "," << ny << ")\n";
 	            }
 	
-	            // Costo energético para ambos
+	            // Costo energÃ©tico para ambos
 	            a->gastarEnergia(15);
 	            pareja->gastarEnergia(15);
 	        }
