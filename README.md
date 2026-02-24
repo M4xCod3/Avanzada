@@ -15,10 +15,19 @@ Proyectos y ejercicios desarrollados durante mi formación académica, enfocados
         * modularización de código.
 * **Java (Estructura de Datos y Algoritmos)**
     * **Entorno:** IntelliJ IDEA.
-    * **Enfoque:** Implementación de estructuras lineales y no lineales (Listas, Pilas, Árboles, Grafos) y análisis de complejidad (Big O).
+    * **Enfoque:**
+        * Estructuras lineales (Listas, Pilas, Colas).
+        * Estructuras no lineales (Arboles, Grafos).
+        * Ánalisis de complejidad (Big O).
+        * Simulación y modelamiento de sistemas.
  
 ### Personal
-Proyectos propios donde exploro conceptos avanzados y nuevas tecnologías.
+Espacio dedicado a la exploración de nuevas tecnologías, conceptos avanzados y desarrollo práctico fuera del entorno académico.
+
+* **Aqui experimento con:**
+    * Nuevas arquitecturas.
+    * Optimización de código.
+    * Resolución de problemas reales.
 
 ## Cómo ejecutar los proyectos
 
@@ -31,3 +40,19 @@ Proyectos propios donde exploro conceptos avanzados y nuevas tecnologías.
 1. Abrir la carpeta del proyecto en **IntelliJ IDEA**.
 2. Configurar el SDK de Java (JDK 11 o superior recomendado).
 3. Ejecutar la clase principal (`Main`).
+
+
+### Objetivo del repositorio
+
+* **El fin de este repositorio es:**
+    * consolidar conocimientos de programación.
+    * aplicar estructuras de datos en esenarios reales.
+    * mantener un registro de mi progreso personal y academico.
+    * ayudar a otros alumnos o estudiantes que esten cursando asignaturas similares, proporcionando ejemplos claros y bien estructurados.
+    * servir como protafolio.
+
+
+### Autor
+
+* **Maximiliano Arriagada** 
+* estudiante de Ingenieria Informatica y telecomunicaciones.
