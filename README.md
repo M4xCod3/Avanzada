@@ -55,4 +55,4 @@ Espacio dedicado a la exploración de nuevas tecnologías, conceptos avanzados y
 ### Autor
 
 * **Maximiliano Arriagada** 
-* estudiante de Ingenieria Informatica y telecomunicaciones.
+    * estudiante de Ingenieria Informatica y telecomunicaciones.
